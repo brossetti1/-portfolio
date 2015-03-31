@@ -59,28 +59,28 @@ TODO - clean up readme
 This was the first assignment we did at the Iron Yard. It is a random number guessing game run on the command line.
 
 **Technologies used:** Ruby
-**Concepts explored: regex validators, loop conditionals**
+**Concepts explored:** regex validators, loop conditionals
 
 
 #####[ROT13](https://github.com/brossetti1/labs/tree/master/01-06)
 This exercise contains a NATO alphabet with encode and decode functions
 
 **Technologies used:** Ruby
-**Concepts explored: Constants, regex, encoders, decoders**
+**Concepts explored:** Constants, regex, encoders, decoders
 
 
 #####[hangman](https://github.com/brossetti1/labs/tree/master/01-07)
 We built a simple hangman game in a functional style that runs on the command line.
 
 **Technologies used:** Ruby
-**Concepts explored: functional programs, conditionals, validations, loop conditionals, gsub regexs**
+**Concepts explored:** functional programs, conditionals, validations, loop conditionals, gsub regex
 
 
 #####[tic-tac-toe](https://github.com/brossetti1/labs/tree/master/01-08)
 A command line Tic Tac Toe game that allows you to play human vs huamn, human vs bot, or bot vs bot.
 
 **Technologies used:** Ruby
-**Concepts explored: functional program, user prompts and menus, bot opponents, search algorithms for win checks**
+**Concepts explored:** functional program, user prompts and menus, bot opponents, search algorithms fowin checks**
 
 
 #####[hangman_class](https://github.com/brossetti1/labs/tree/master/01-13)
@@ -94,4 +94,4 @@ This exercise involved remaking the command line hangman game using classes.
 an implementation of the command line based tic-tac-toe game using classes instad of a functional style. 
 
 **Technologies used:** Ruby
-**Concepts explored: user input, class messages, implementing bot difficulty levels up to hard mode, OO design**
+**Concepts explored:** user input, class messages, implementing bot difficulty levels up to hard mode, Odesign**
