@@ -25,39 +25,73 @@ TODO - clean up readme
 
 ##Solo Projects
 
-#####todo_javascript
+#####[todo_javascript](https://github.com/brossetti1/todo_javascript)
 
-#####CheepCreep
+#####[CheepCreep](https://github.com/brossetti1/CheepCreep)
+TODO - github API client
 
-#####etsy_searcher
+#####[etsy_searcher](https://github.com/brossetti1/etsy_searcher)
+TODO - clean up readme
 
-#####notepasser
+#####[notepasser](https://github.com/brossetti1/notepasser)
+TODO - clean up readme
 
-#####toodoo
+#####[toodoo](https://github.com/brossetti1/toodoo)
+TODO - clean up readme
 
-#####blarg
+#####[blarg](https://github.com/brossetti1/blarg)
+TODO - clean up readme
 
-#####guessr
+#####[guessr](https://github.com/brossetti1/guessr)
+TODO - clean up readme
 
-#####ruby_koans
+#####[ResidualReports](https://github.com/brossetti1/ResidualReports)
+TODO - clean up readme
 
-#####ResidualReports
-
-#####PinPads
-
+#####[PinPads](https://github.com/brossetti1/PinPads)
+TODO - clean up readme
 
 
 
 ##Exercises (labs folder)
 
-#####NumberGame
+#####[NumberGame](https://github.com/brossetti1/labs/blob/master/01-05/complete/03_NumberGame_complete.rb)
+This was the first assignment we did at the Iron Yard. It is a random number guessing game run on the command line.
 
-#####ROT13
+**Technologies used: Ruby**
+**Concepts explored: regex validators, loop conditionals**
+
+
+#####[ROT13](https://github.com/brossetti1/labs/tree/master/01-06)
+This exercise contains a NATO alphabet with encode and decode functions
+
+**Technologies used: Ruby**
+**Concepts explored: Constants, regex, encoders, decoders**
+
 
 #####hangman
+We built a simple hangman game in a functional style that runs on the command line.
+
+**Technologies used: Ruby**
+**Concepts explored: functional programs, conditionals, validations, loop conditionals, gsub regexs**
+
 
 #####tic-tac-toe
+A command line Tic Tac Toe game that allows you to play human vs huamn, human vs bot, or bot vs bot.
+
+**Technologies used: Ruby**
+**Concepts explored: functional program, user prompts and menus, bot opponents, search algorithms for win checks**
+
 
 #####hangman_class
+This exercise involved remaking the command line hangman game using classes.
+
+**Technologies used: Ruby**
+**Concepts explored: classes, instance variables, class properties**
+
 
 #####tic-tac-toe_classes
+an implementation of the command line based tic-tac-toe game using classes instad of a functional style. 
+
+**Technologies used: Ruby**
+**Concepts explored: user input, class messages, implementing bot difficulty levels up to hard mode, OO design**
