@@ -3,21 +3,21 @@ summary of various projects and the technologies used in each.
 
 ##Group Projects
 
-###[Zen Accounting](http://development.bholben-zen.divshot.io/)
+#####[Zen Accounting](http://development.bholben-zen.divshot.io/)
 This project is held under a private repository.
 
-###[Jobber](http://development.bholben-jobber.divshot.io/#/signin)
+#####[Jobber](http://development.bholben-jobber.divshot.io/#/signin)
 The RoR repository can be found here: [PrePostInterviewGroup](https://github.com/PrePostInterviewGroup/PrePostInterviewGroup)
 
-###[Ninja Checkers](https://github.com/brossetti1/Checkers_RB)
+#####[Ninja Checkers](https://github.com/brossetti1/Checkers_RB)
 
-###[spotify_me](https://github.com/brossetti1/spotify_me)
+#####[spotify_me](https://github.com/brossetti1/spotify_me)
 TODO - clean up readme, clean up repo
 
-###[connect4](https://github.com/brossetti1?tab=repositories)
+#####[connect4](https://github.com/brossetti1?tab=repositories)
 TODO - clean up readme
 
-###[tweethouse](https://github.com/brossetti1/tweethouse)
+#####[tweethouse](https://github.com/brossetti1/tweethouse)
 TODO - clean up readme
 
 
@@ -25,39 +25,39 @@ TODO - clean up readme
 
 ##Solo Projects
 
-###todo_javascript
+#####todo_javascript
 
-###CheepCreep
+#####CheepCreep
 
-###etsy_searcher
+#####etsy_searcher
 
-###notepasser
+#####notepasser
 
-###toodoo
+#####toodoo
 
-###blarg
+#####blarg
 
-###guessr
+#####guessr
 
-###ruby_koans
+#####ruby_koans
 
-###ResidualReports
+#####ResidualReports
 
-###PinPads
+#####PinPads
 
 
 
 
 ##Exercises (labs folder)
 
-###NumberGame
+#####NumberGame
 
-###ROT13
+#####ROT13
 
-###hangman
+#####hangman
 
-###tic-tac-toe
+#####tic-tac-toe
 
-###hangman_class
+#####hangman_class
 
-###tic-tac-toe_classes
+#####tic-tac-toe_classes
