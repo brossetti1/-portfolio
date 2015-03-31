@@ -3,15 +3,22 @@ summary of various projects and the technologies used in each.
 
 ##Group Projects
 
-###Zen Accounting
+###[Zen Accounting](http://development.bholben-zen.divshot.io/)
+This project is held under a private repository.
 
-###Jobber
+###[Jobber](http://development.bholben-jobber.divshot.io/#/signin)
+The RoR repository can be found here: [PrePostInterviewGroup](https://github.com/PrePostInterviewGroup/PrePostInterviewGroup)
 
-###Ninja Checkers
+###[Ninja Checkers](https://github.com/brossetti1/Checkers_RB)
 
-###spotify_me
+###[spotify_me](https://github.com/brossetti1/spotify_me)
+TODO - clean up readme, clean up repo
 
-###connect4
+###[connect4](https://github.com/brossetti1?tab=repositories)
+TODO - clean up readme
+
+###[tweethouse](https://github.com/brossetti1/tweethouse)
+TODO - clean up readme
 
 
 
