@@ -79,8 +79,8 @@ We built a simple hangman game in a functional style that runs on the command li
 #####[tic-tac-toe](https://github.com/brossetti1/labs/tree/master/01-08)
 A command line Tic Tac Toe game that allows you to play human vs huamn, human vs bot, or bot vs bot.
 
-**Technologies used:** Ruby \n
-**Concepts explored:** functional program, user prompts and menus, bot opponents, search algorithms fowin checks**
+<p>**Technologies used:** Ruby</p>
+<p>**Concepts explored:** functional program, user prompts and menus, bot opponents, search algorithms for win checks</p>
 
 
 #####[hangman_class](https://github.com/brossetti1/labs/tree/master/01-13)
