@@ -58,7 +58,7 @@ TODO - clean up readme
 #####[NumberGame](https://github.com/brossetti1/labs/tree/master/01-05/complete)
 This was the first assignment we did at the Iron Yard. It is a random number guessing game run on the command line.
 
-<strong>Technologies used:</strong> Ruby </br>
+<strong>Technologies used:</strong> Ruby <br>
 <strong>Concepts explored:</strong> regex validators, loop conditionals
 
 
