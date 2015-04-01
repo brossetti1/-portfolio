@@ -55,6 +55,7 @@ TODO - clean up readme
 
 #####[toodoo](https://github.com/brossetti1/toodoo)
 TODO - clean up readme
+in this project, we completed the initiatory todo app for all ruby programers. This was another command line todo list.
 
 
 <strong>Technologies used:</strong> Ruby <br>
@@ -65,7 +66,7 @@ TODO - clean up readme
 TODO - clean up readme
 blarg is another camping project which allowed us to import and view blog posts in the command line.
 
-<strong>Technologies used:</strong> Ruby, camping, mySQL <br>
+<strong>Technologies used:</strong> Ruby, camping micro-framework, mySQL <br>
 <strong>Concepts explored:</strong> user input, importing and storing posts, viewing posts.
 
 
