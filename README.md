@@ -27,30 +27,34 @@ TODO - clean up readme
 
 
 #####[todo_javascript](https://github.com/brossetti1/todo_javascript)
+This was a project focused around developing a single page app through the use of javascript, jQuery, and ajax. The content consisted of a Todo app that could be shared between users. 
 
-<strong>Technologies used:</strong> Ruby <br>
-<strong>Concepts explored:</strong> 
+<strong>Technologies used:</strong> Ruby Rails, postgres, acts-as-taggable gem, devise, simple-form, haml, bootswatch, fontawesome<br>
+<strong>Concepts explored:</strong> simple jQuery functions and actions, html, CSS, CRUD operations via Rails
 
 
 #####[CheepCreep](https://github.com/brossetti1/CheepCreep)
-TODO - github API client
+building of a github client for grabbing users, followers, and following data. 
 
-<strong>Technologies used:</strong> Ruby <br>
-<strong>Concepts explored:</strong>
+<strong>Technologies used:</strong> Ruby, httparty, activerecord, sqlite3 <br>
+<strong>Concepts explored:</strong> sending API calls, parsing JSON, manipulating live data, passing params
 
 
 #####[etsy_searcher](https://github.com/brossetti1/etsy_searcher)
+This project involved replicating the etsy search page by incorporating html and css techniques we learned during the time period that this app took place. the scope also called for an integration into the etsy API for returning search results. This project was largely CSS and HTML
 TODO - clean up readme
 
-<strong>Technologies used:</strong> Ruby <br>
-<strong>Concepts explored:</strong>
+
+<strong>Technologies used:</strong> Ruby, etsy gem, bootstrap, <br>
+<strong>Concepts explored:</strong> integrating an API, Environmnet Variables, google chrome developer tools, block vs inline positioning
 
 
 #####[notepasser](https://github.com/brossetti1/notepasser)
 TODO - clean up readme
+this app allowed users to create unauthenticated accounts and pass notes back and forth to each other. it utilized Models and Controllers via camping and a github client that we roled ourselves. I implemented BCrypt salts and camping session in an attempt to role my own authentication system.
 
-<strong>Technologies used:</strong> Ruby <br>
-<strong>Concepts explored:</strong>
+<strong>Technologies used:</strong> Ruby, httparty, camping, BCrypt, github API <br>
+<strong>Concepts explored:</strong> API clients, model/controller architecture, validations, authentication, Environmnet Variables
 
 
 #####[toodoo](https://github.com/brossetti1/toodoo)
@@ -58,15 +62,15 @@ TODO - clean up readme
 in this project, we completed the initiatory todo app for all ruby programers. This was another command line todo list.
 
 
-<strong>Technologies used:</strong> Ruby <br>
-<strong>Concepts explored:</strong>
+<strong>Technologies used:</strong> Ruby, activerecord, sqlite3, highline <br>
+<strong>Concepts explored:</strong> basic associations, command line CRUD
 
 
 #####[blarg](https://github.com/brossetti1/blarg)
 TODO - clean up readme
 blarg is another camping project which allowed us to import and view blog posts in the command line.
 
-<strong>Technologies used:</strong> Ruby, camping micro-framework, mySQL <br>
+<strong>Technologies used:</strong> Ruby, camping micro-framework, sqlite3 <br>
 <strong>Concepts explored:</strong> user input, importing and storing posts, viewing posts.
 
 
