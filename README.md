@@ -26,31 +26,51 @@ TODO - clean up readme
 ##Solo Projects
 
 #####[todo_javascript](https://github.com/brossetti1/todo_javascript)
+<strong>Technologies used:</strong> Ruby <br>
+<strong>Concepts explored:</strong> 
 
 #####[CheepCreep](https://github.com/brossetti1/CheepCreep)
 TODO - github API client
+<strong>Technologies used:</strong> Ruby <br>
+<strong>Concepts explored:</strong>
 
 #####[etsy_searcher](https://github.com/brossetti1/etsy_searcher)
 TODO - clean up readme
+<strong>Technologies used:</strong> Ruby <br>
+<strong>Concepts explored:</strong>
 
 #####[notepasser](https://github.com/brossetti1/notepasser)
 TODO - clean up readme
+<strong>Technologies used:</strong> Ruby <br>
+<strong>Concepts explored:</strong>
 
 #####[toodoo](https://github.com/brossetti1/toodoo)
 TODO - clean up readme
+<strong>Technologies used:</strong> Ruby <br>
+<strong>Concepts explored:</strong>
 
 #####[blarg](https://github.com/brossetti1/blarg)
 TODO - clean up readme
+<strong>Technologies used:</strong> Ruby <br>
+<strong>Concepts explored:</strong>
 
 #####[guessr](https://github.com/brossetti1/guessr)
 TODO - clean up readme
+Guessr is a camping based hangman game. This was our introduction to a simple ruby web framework. 
+<strong>Technologies used:</strong> Ruby, camping micro-framework <br>
+<strong>Concepts explored:</strong> controllers, schema setup, modules, and models
 
 #####[ResidualReports](https://github.com/brossetti1/ResidualReports)
 TODO - clean up readme
+Residual Reports is an unfinished project that involves parsing monthly vendor csv's to generate reports used at Bluestone Payments. This project will eventually translate to a rails project in the future.
+<strong>Technologies used:</strong> Ruby, spreadsheet gem <br>
+<strong>Concepts explored:</strong> parsing csv's, manipulating rows and columns, exporting data in spreadsheet form.
 
 #####[PinPads](https://github.com/brossetti1/PinPads)
 TODO - clean up readme
-
+First project in Ruby, this is a simple program that can analyze card processing fees based on volume and transaction count. 
+<strong>Technologies used:</strong> Ruby <br>
+<strong>Concepts explored:</strong> message passing, Duck Types, data manipulation.
 
 
 ##Exercises (labs folder)
