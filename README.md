@@ -65,33 +65,33 @@ This was the first assignment we did at the Iron Yard. It is a random number gue
 #####[ROT13](https://github.com/brossetti1/labs/tree/master/01-06)
 This exercise contains a NATO alphabet with encode and decode functions
 
-<strong>Technologies used:</strong> Ruby </br>
+<strong>Technologies used:</strong> Ruby <br>
 <strong>Concepts explored:</strong> Constants, regex, encoders, decoders
 
 
 #####[hangman](https://github.com/brossetti1/labs/tree/master/01-07)
 We built a simple hangman game in a functional style that runs on the command line.
 
-<strong>Technologies used:</strong> Ruby </br>
+<strong>Technologies used:</strong> Ruby <br>
 <strong>Concepts explored:</strong> functional programs, conditionals, validations, loop conditionals, gsub regex
 
 
 #####[tic-tac-toe](https://github.com/brossetti1/labs/tree/master/01-08)
 A command line Tic Tac Toe game that allows you to play human vs huamn, human vs bot, or bot vs bot.
 
-<strong>Technologies used:</strong> Ruby </br>
+<strong>Technologies used:</strong> Ruby <br>
 <strong>Concepts explored:</strong> functional program, user prompts and menus, bot opponents, search algorithms for win checks
 
 
 #####[hangman_class](https://github.com/brossetti1/labs/tree/master/01-13)
 This exercise involved remaking the command line hangman game using classes.
 
-<strong>Technologies used:</strong> Ruby </br>
+<strong>Technologies used:</strong> Ruby <br>
 <strong>Concepts explored:</strong> classes, instance variables, class properties
 
 
 #####[tic-tac-toe_classes](https://github.com/brossetti1/labs/tree/master/01-15)
 an implementation of the command line based tic-tac-toe game using classes instad of a functional style. 
 
-<strong>Technologies used:</strong> Ruby </br>
+<strong>Technologies used:</strong> Ruby <br>
 <strong>Concepts explored:</strong> user input, class messages, implementing bot difficulty levels up to hard mode, OOD.
