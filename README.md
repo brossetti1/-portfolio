@@ -6,17 +6,32 @@ summary of various projects and the technologies used in each.
 #####[Zen Accounting](http://development.bholben-zen.divshot.io/)
 This project is held under a private repository.
 
+
 #####[Jobber](http://development.bholben-jobber.divshot.io/#/signin)
 The RoR repository can be found here: [PrePostInterviewGroup](https://github.com/PrePostInterviewGroup/PrePostInterviewGroup)
 
+
 #####[Ninja Checkers](https://github.com/brossetti1/Checkers_RB)
 
+
 #####[spotify_me](https://github.com/brossetti1/spotify_me)
+Spotify_me is a project that tracks user requested songs every week, and compiles the songs with the most votes into a playlist that the user can than add to their spotify account. User's have a limited number of votes and 1 veto which can be used to remove any weekly song from the list. This was a collaboration with [Andrew Mercer](https://github.com/chubeesah).
+
+<strong>Technologies used:</strong>Ruby, Rails, postgres, devise, rspotify, httparty, twitter bootswatch, faker, dotenv<br>
+<strong>Concepts explored:</strong> oauth implementation - this was unfinished by the end of the project, but the experience was invaluable, implementing a voting system, time based application, integration with the spotify API
 
 #####[connect4](https://github.com/brossetti1?tab=repositories)
+This project was an implementation of a connect4 game using devise for user competition. This was a collaboration between myself and [Viedika Birla](https://github.com/birla22v).
+
+<strong>Technologies used:</strong>Ruby, Rails, postgres, devise, bootstrap<br>
+<strong>Concepts explored:</strong>join tables, full rails application, connect 4 game and win logic, has_many through assocaitions, html, css, gameification of user stats
+
 
 #####[tweethouse](https://github.com/brossetti1/tweethouse)
+tweethouse is a twitteresq clone that implements shouts and the ability to follow users. This was a collaboration between myself and [Viedika Birla](https://github.com/birla22v).
 
+<strong>Technologies used:</strong>Ruby, Rails, postgres, devise, bootstrap, will_paginate<br>
+<strong>Concepts explored:</strong> user interactions, user view helpers (devise), full MVC rails application, pagination, html, and css
 
 
 
@@ -24,9 +39,9 @@ The RoR repository can be found here: [PrePostInterviewGroup](https://github.com
 
 
 #####[todo_javascript](https://github.com/brossetti1/todo_javascript)
-This was a project focused around developing a single page app through the use of unobtrusive javascript, jQuery, and ajax. The content consisted of a Todo app that could be shared between users. 
+This was a project focused around developing a single page app through the use of unobtrusive javascript, jQuery, and ajax. The content consisted of a Todo app that could be shared between users.
 
-<strong>Technologies used:</strong>Ruby Rails, postgres, acts-as-taggable gem, devise, simple-form, haml, bootswatch, fontawesome<br>
+<strong>Technologies used:</strong>Ruby, Rails, postgres, acts-as-taggable gem, devise, simple-form, haml, bootswatch, fontawesome<br>
 <strong>Concepts explored:</strong>simple jQuery functions and actions, html, CSS, CRUD operations via Rails
 
 
