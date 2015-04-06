@@ -4,14 +4,24 @@ summary of various projects and the technologies used in each.
 ##Group Projects
 
 #####[Zen Accounting](http://development.bholben-zen.divshot.io/)
-This project is held under a private repository.
+This project is held under a private repository in collaboration with [Bob Holben](https://github.com/bholben). We worked over a three week period toward of goal desiging an accounting applicaiton that redefined the typical user experience. This is an ongoing project which will eventually have the ability to upload csv files mapped from Quickbooks, a time keeping mobile app that track hours of vendors and employees, integration to download bank transactions via Yodlee, along with other features. The below technologies are already implemented on the back end.
+
+<strong>Technologies used:</strong>Ruby, Rails, postgres, devise, jbuilder, faker, api based devise invitable, forked Plutus (double entry accounting system), cancan, suckerpunch/ActiveJob, mandrill, AWS S3, paperclip<br>
+<strong>Concepts explored:</strong> API token authentication via devise, building json based API infrastructure, documenting a json based API, forking Plutus and implementing multitenant double accounting system, allowing company admins to invite users (employees/cpas/etc.), user authorization via cancan, file uploads via S3 and paperclip, background job processing via suckerpunch for emails, ActiveJob for replacing suckerpunch with redis/sidekiq when file uploads are implemented on the front end.
 
 
 #####[Jobber](http://development.bholben-jobber.divshot.io/#/signin)
-The RoR repository can be found here: [PrePostInterviewGroup](https://github.com/PrePostInterviewGroup/PrePostInterviewGroup)
+The RoR repository can be found here: [PrePostInterviewGroup](https://github.com/PrePostInterviewGroup/PrePostInterviewGroup) This project took place over a 44 hour hackathon in which we were given several requirments to develope a tool to assist users in their search for a job by keeping track of where a user is in the interview process and sending reminders for scheudled events as well as pre and post follow up items.
+
+<strong>Technologies used:</strong>Ruby, Rails, postgres, devise, jbuilder, faker<br>
+<strong>Concepts explored:</strong> API token authentication via devise, building json request/response platform for mobile and web applications, documenting a json based API. 
 
 
 #####[Ninja Checkers](https://github.com/brossetti1/Checkers_RB)
+This was a group project with an objective of building a checkers game via a backend API that serviced a web application and mobile iOS application. 
+
+<strong>Technologies used:</strong>Ruby, Rails, postgres, devise, jbuilder, warden<br>
+<strong>Concepts explored:</strong> warden overides to track online users, API token authentication via devise, game logic, building json request/response platform for mobile and web application, documenting a json based API.
 
 
 #####[spotify_me](https://github.com/brossetti1/spotify_me)
