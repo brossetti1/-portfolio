@@ -55,10 +55,8 @@ tweethouse is a twitteresq clone that implements shouts and the ability to follo
 
 #####[Atlanta Ruby Group Youtube Integration (ATLRUG)](https://github.com/brossetti1/atlrug4)
 This project was a pull request on the [ATLRUG](http://www.atlrug.com/) website involving the deprication of the YouTube API v2. The [YouTube_it gem](https://github.com/kylejginavan/youtube_it) does not support v3 so I implemented the [yt gem](https://github.com/Fullscreen/yt) to get the site current with the Youtube API. 
-<strong>Technologies used:</strong>yt gem<br>
 
-<strong>Technologies used:</strong>Ruby, Rails, bootswatch, fonta-awesome, less, kaminari, simple form, money-rails, sucker punch<br>
-<strong>Concepts explored:</strong>so far, this project is heavy with CSV parsing and storing data post processing. This project also utilizes unique identifiers. STI for certain fee types, more to come as this project progresses. 
+<strong>Technologies used:</strong>yt gem<br>
 
 #####[Bluestone Residuals](https://github.com/brossetti1/BluestoneResiduals)
 This is a business application that is in developement which will be used in a live environemnt to parse vendor reports, generate sales data, and pay sales agents commissions. Currently, the database is built out and there are about 7 reports being parsed and imported in developement. This tool will eventually expand to 15+ ancillary reports, but the next step is to incorporate all the logic for generating sales data and commissions.
