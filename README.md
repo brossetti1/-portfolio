@@ -2,6 +2,12 @@
 summary of various projects and the technologies used in each.
 
 ##Group Projects
+#####[ForgeHealth Innovation Challange](https://github.com/innovation-health/inno-be)
+This was a hackathon at the Decatur, GA Veterans Hospital that took place April 10th - 12th 2015. The competition had technologists teaming up with medical professionals (and anyone else who wanted to participate) to hack at issues presented by hospital staff. Our group incorporated a Rasberry-pi and RFID reader to create a bedside application for patients. It involved tracking which medical professionals came in and out of the room, patient questions sorted by department (gastro, surgeon, etc.), and staff notes. The app was supose to be a representation of the patients day to prevent duplicate questions and concerns by the patient and/or their family members.
+
+<strong>Technologies used:</strong>Ruby, Rails, postgres, devise, jbuilder, faker, twilio, heroku<br>
+<strong>Concepts explored:</strong> working with hardware and incorporating RFID readers into a web/mobile application. text message alert system through twilio, STI for efficieny due to hackathon time limits, working with non technical parties to come up with a solution to a problem in their field.
+
 
 #####[Zen Accounting](http://development.bholben-zen.divshot.io/)
 This project is held under a private repository in collaboration with [Bob Holben](https://github.com/bholben). We worked over a three week period toward of goal desiging an accounting applicaiton that redefined the typical user experience. This is an ongoing project which will eventually have the ability to upload csv files mapped from Quickbooks, a time keeping mobile app that track hours of vendors and employees, integration to download bank transactions via Yodlee, along with other features. The below technologies are already implemented on the back end.
@@ -46,6 +52,12 @@ tweethouse is a twitteresq clone that implements shouts and the ability to follo
 
 
 ##Solo Projects
+
+#####[Bluestone Residuals](https://github.com/brossetti1/BluestoneResiduals)
+This is a business application that is in developement which will be used in a live environemnt to parse vendor reports, generate sales data, and pay sales agents commissions. Currently, the database is built out and there are about 7 reports being parsed and imported in developement. This tool will eventually expand to 15+ ancillary reports, but the next step is to incorporate all the logic for generating sales data and commissions.
+
+<strong>Technologies used:</strong>Ruby, Rails, bootswatch, fonta-awesome, less, kaminari, simple form, money-rails, sucker punch<br>
+<strong>Concepts explored:</strong>so far, this project is heavy with CSV parsing and storing data post processing. This project also utilizes unique identifiers. STI for certain fee types, more to come as this project progresses. 
 
 
 #####[todo_javascript](https://github.com/brossetti1/todo_javascript)
