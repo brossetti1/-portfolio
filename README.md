@@ -61,8 +61,8 @@ This project was a pull request on the [ATLRUG](http://www.atlrug.com/) website 
 #####[Bluestone Residuals](https://github.com/brossetti1/BluestoneResiduals)
 This is a business application that is in developement which will be used in a live environemnt to parse vendor reports, generate sales data, and pay sales agents commissions. Currently, the database is built out and there are about 7 reports being parsed and imported in developement. This tool will eventually expand to 15+ ancillary reports, but the next step is to incorporate all the logic for generating sales data and commissions.
 
-<strong>Technologies used:</strong>Ruby, Rails, bootswatch, font-awesome, less, kaminari, simple form, money-rails, sucker punch<br>
-<strong>Concepts explored:</strong>so far, this project is heavy in CSV parsing and storing data post processing. This project also utilizes STI for certain fee types, more to come as this project progresses. 
+<strong>Technologies used:</strong>Ruby, Rails, bootswatch, font-awesome, less, kaminari, simple form, money-rails, sucker punch, factory girl, rspec, guard, database cleaner<br>
+<strong>Concepts explored:</strong>so far, this project is heavy in CSV parsing and storing data post processing. This project also utilizes STI for certain fee types, more to come as this project progresses. Starting to integrate tests into project, eventually will have unit and integration testing, desire to transition to TDD style.
 
 
 #####[todo_javascript](https://github.com/brossetti1/todo_javascript)
